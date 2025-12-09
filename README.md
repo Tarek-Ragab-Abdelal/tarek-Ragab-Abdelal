@@ -1,6 +1,6 @@
 # Tarek Ragab | Full-Stack Software Engineer
 
-Specialized in backend architecture, data-driven systems, and high-performance data workflows. Experienced in database engineering, API design, and building maintainable systems grounded in clean architecture and strong type-safety principles. Focused on crafting reliable, production-ready platforms that enable teams and products to scale efficiently. More can be found [here](tarekragab.com).
+Specialized in backend architecture, data-driven systems, and high-performance data workflows. Experienced in database engineering, API design, and building maintainable systems grounded in clean architecture and strong type-safety principles. Focused on crafting reliable, production-ready platforms that enable teams and products to scale efficiently. More experience details can be found at my [portfolio](tarekragab.com).
 
 ### Let's Connect
 

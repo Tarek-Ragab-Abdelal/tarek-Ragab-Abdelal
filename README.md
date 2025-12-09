@@ -1,4 +1,4 @@
-t# Tarek Ragab
+# Tarek Ragab
 
 ## Full-Stack Software Engineer | Database Focused
 

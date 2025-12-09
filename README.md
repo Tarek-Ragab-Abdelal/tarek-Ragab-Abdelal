@@ -1,6 +1,4 @@
-# Tarek Ragab
-
-## Full-Stack Software Engineer | Database Focused
+# Tarek Ragab | Full-Stack Software Engineer
 
 Specialized in backend development, database engineering, and scalable cloud solutions. Experienced in building high-performance systems using .NET, React, SQL, and Azure, with a proven ability to deliver data-driven web applications that enhance reliability and maintainability.
 

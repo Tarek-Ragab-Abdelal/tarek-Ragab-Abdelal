@@ -1,8 +1,8 @@
-# Tarek Ragab
+t# Tarek Ragab
 
-## IoT Embedded Developer | Flutter Developer
+## Full-Stack Software Engineer | Database Focused
 
-I am an Embedded IoT Engineer with a solid foundation in system design and development, having over three years of experience. My expertise lies in firmware development with a focus on C++ and C, and I’ve had the opportunity to manage various IoT system architectures. Globally, I have provided IoT solutions that meet specific needs and have been involved in reverse engineering projects for data telemetry. I am proficient with MQTT, HTTP, RESTful APIs, and enjoy learning new programming languages. Outside of work, I engage in robotics competitions and support the Robotics Student Organization, always eager to learn and grow.
+Specialized in backend development, database engineering, and scalable cloud solutions. Experienced in building high-performance systems using .NET, React, SQL, and Azure, with a proven ability to deliver data-driven web applications that enhance reliability and maintainability.
 
 - 🌍  I'm based in Cairo, Egypt
 - ✉️  You can contact me at [tarek.madany113@gmail.com](mailto:tarek.madany113@gmail.com)

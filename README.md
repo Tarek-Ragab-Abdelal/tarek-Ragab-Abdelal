@@ -1,9 +1,25 @@
 # Tarek Ragab | Full-Stack Software Engineer
 
-Specialized in backend development, database engineering, and scalable cloud solutions. Experienced in building high-performance systems using .NET, React, SQL, and Azure, with a proven ability to deliver data-driven web applications that enhance reliability and maintainability.
+Specialized in backend architecture, data-driven systems, and high-performance data workflows. Experienced in database engineering, API design, and building maintainable systems grounded in clean architecture and strong type-safety principles. Focused on crafting reliable, production-ready platforms that enable teams and products to scale efficiently
 
-- 🌍  I'm based in Cairo, Egypt
-- ✉️  You can contact me at [tarek.madany113@gmail.com](mailto:tarek.madany113@gmail.com)
+
+### Let's Connect
+
+<div style="display: flex; gap: 10px;">
+
+<a href="https://linkedin.com/in/tarek-ragab/" target="_blank">
+  <img src="https://img.shields.io/badge/-Tarek%20Ragab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tarek.madany113@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01f068ac7a77a08223" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+</a>
+
+</div>
 
 ### Skills
 
@@ -45,22 +61,9 @@ Specialized in backend development, database engineering, and scalable cloud sol
 </p>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/tarek-Ragab-Abdelal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-Ragab-Abdelal&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/tarek-Ragab-Abdelal"><img src="https://github-readme-stats.vercel.app/api?username=tarek-Ragab-Abdelal&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tarek-Ragab-Abdelal's GitHub stats" /></a>
-
-
-### Let's Connect 
-<a href="https://linkedin.com/in/tarek-ragab/" target="_blank"><img src="https://img.shields.io/badge/-Tarek%20Ragab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
-
 ### Support Me
 
-<p style="display: inline-block; margin-right: 0.25rem;"><a style="padding: 10px;" href="https://www.buymeacoffee.com/tarekragab"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-    <a style="padding: 10px;" href="https://www.ko-fi.com/tarekragab"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></p>
-</ul>
+<p style="display: inline-block; margin-right: 0.25rem;">
+    <a style="padding: 10px;" href="https://www.buymeacoffee.com/tarekragab"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+    <a style="padding: 10px;" href="https://www.ko-fi.com/tarekragab"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+</p>

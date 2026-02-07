@@ -6,16 +6,15 @@ Specialized in backend architecture, data-driven systems, and high-performance d
 
 <div style="display: flex; gap: 10px;">
 
+<a href="https://www.upwork.com/freelancers/~01f068ac7a77a08223" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/tarek-ragab/" target="_blank">
   <img src="https://img.shields.io/badge/-Tarek%20Ragab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tarek.madany113@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~01f068ac7a77a08223" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white"/>
 </a>
 
 </div>
